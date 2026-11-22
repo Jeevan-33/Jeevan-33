@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeevan-ae/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jeevan-ae-360176334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/u/jeevanAE/"><img src="https://img.shields.io/badge/LeetCode-jeevanAE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="https://youtube.com/@thetechodysseyyt"><img src="https://img.shields.io/badge/YouTube-The%20Tech%20Odyssey-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of Engineering, Bengaluru** (CGPA 9.29, graduating 2028). I like turning ideas into working products, from small models trained from scratch to full-stack apps, and I take part in a lot of hackathons.
+I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of Engineering, Bengaluru** (CGPA 9.29, graduating 2028). I enjoy turning ideas into working products, from small models trained from scratch to full-stack apps. I'm an active hackathon participant and I enjoy contributing as a volunteer on technical committees and college fests, where I help organise events and support the tech community.
 
 > **Now building:** offline-first RAG and tiny language models for log analysis
 > **Now learning:** agentic workflows and deep learning
@@ -134,4 +134,4 @@ I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of E
 
 ## Let's connect
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/jeevan-ae/) or through my [YouTube channel](https://youtube.com/@thetechodysseyyt). Always up for collaborating on AI projects and hackathons.
+Reach me on [LinkedIn](https://www.linkedin.com/in/jeevan-ae-360176334/) or through my [YouTube channel](https://youtube.com/@thetechodysseyyt). Always up for collaborating on AI projects and hackathons.

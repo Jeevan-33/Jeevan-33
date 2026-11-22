@@ -1,31 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/>
-      <stop offset="0.55" stop-color="#16213e"/>
-      <stop offset="1" stop-color="#0f3a4a"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-  </defs>
-  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
-  <g stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.2">
-    <line x1="640" y1="50" x2="740" y2="110"/><line x1="640" y1="50" x2="740" y2="190"/>
-    <line x1="640" y1="130" x2="740" y2="110"/><line x1="640" y1="130" x2="740" y2="190"/>
-    <line x1="640" y1="210" x2="740" y2="110"/><line x1="640" y1="210" x2="740" y2="190"/>
-    <line x1="740" y1="110" x2="840" y2="70"/><line x1="740" y1="110" x2="840" y2="150"/>
-    <line x1="740" y1="190" x2="840" y2="150"/><line x1="740" y1="190" x2="840" y2="230"/>
-    <line x1="840" y1="70" x2="930" y2="130"/><line x1="840" y1="150" x2="930" y2="130"/><line x1="840" y1="230" x2="930" y2="130"/>
-  </g>
-  <g fill="url(#accent)">
-    <circle cx="640" cy="50" r="7"/><circle cx="640" cy="130" r="7"/><circle cx="640" cy="210" r="7"/>
-    <circle cx="740" cy="110" r="9"/><circle cx="740" cy="190" r="9"/>
-    <circle cx="840" cy="70" r="7"/><circle cx="840" cy="150" r="9"/><circle cx="840" cy="230" r="7"/>
-    <circle cx="930" cy="130" r="11"/>
-  </g>
-  <text x="60" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#94a3b8" letter-spacing="4">HELLO WORLD, I AM</text>
-  <text x="58" y="165" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="url(#accent)">Jeevan</text>
-  <text x="60" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#e2e8f0">Agentic AI  ·  Full-Stack  ·  UI/UX</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#16213e"/><stop offset="1" stop-color="#0f3a4a"/></linearGradient>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#a78bfa;#22d3ee" dur="6s" repeatCount="indefinite"/></stop>
+<stop offset="1" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#22d3ee;#a78bfa" dur="6s" repeatCount="indefinite"/></stop></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#22d3ee" stroke-opacity=".05"/><animateTransform attributeName="patternTransform" type="translate" from="0 0" to="28 28" dur="4s" repeatCount="indefinite"/></pattern>
+<clipPath id="card"><rect width="1000" height="260" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#card)"><rect width="1000" height="260" fill="url(#bg)"/><rect width="1000" height="260" fill="url(#grid)"/>
+<rect y="0" width="160" height="260" fill="#22d3ee" opacity=".05"><animate attributeName="x" values="-160;1000" dur="7s" repeatCount="indefinite"/></rect></g>
+<g stroke="#22d3ee" stroke-opacity=".22" stroke-width="1">
+<line x1="620" y1="70" x2="715" y2="45"/>
+<line x1="620" y1="70" x2="715" y2="105"/>
+<line x1="620" y1="70" x2="715" y2="155"/>
+<line x1="620" y1="70" x2="715" y2="215"/>
+<line x1="620" y1="130" x2="715" y2="45"/>
+<line x1="620" y1="130" x2="715" y2="105"/>
+<line x1="620" y1="130" x2="715" y2="155"/>
+<line x1="620" y1="130" x2="715" y2="215"/>
+<line x1="620" y1="190" x2="715" y2="45"/>
+<line x1="620" y1="190" x2="715" y2="105"/>
+<line x1="620" y1="190" x2="715" y2="155"/>
+<line x1="620" y1="190" x2="715" y2="215"/>
+<line x1="715" y1="45" x2="810" y2="45"/>
+<line x1="715" y1="45" x2="810" y2="105"/>
+<line x1="715" y1="45" x2="810" y2="155"/>
+<line x1="715" y1="45" x2="810" y2="215"/>
+<line x1="715" y1="105" x2="810" y2="45"/>
+<line x1="715" y1="105" x2="810" y2="105"/>
+<line x1="715" y1="105" x2="810" y2="155"/>
+<line x1="715" y1="105" x2="810" y2="215"/>
+<line x1="715" y1="155" x2="810" y2="45"/>
+<line x1="715" y1="155" x2="810" y2="105"/>
+<line x1="715" y1="155" x2="810" y2="155"/>
+<line x1="715" y1="155" x2="810" y2="215"/>
+<line x1="715" y1="215" x2="810" y2="45"/>
+<line x1="715" y1="215" x2="810" y2="105"/>
+<line x1="715" y1="215" x2="810" y2="155"/>
+<line x1="715" y1="215" x2="810" y2="215"/>
+<line x1="810" y1="45" x2="905" y2="85"/>
+<line x1="810" y1="45" x2="905" y2="175"/>
+<line x1="810" y1="105" x2="905" y2="85"/>
+<line x1="810" y1="105" x2="905" y2="175"/>
+<line x1="810" y1="155" x2="905" y2="85"/>
+<line x1="810" y1="155" x2="905" y2="175"/>
+<line x1="810" y1="215" x2="905" y2="85"/>
+<line x1="810" y1="215" x2="905" y2="175"/>
+</g>
+<circle r="3.2" fill="#22d3ee"><animateMotion path="M620,130 L715,105 L810,215 L905,85" dur="2.67s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="2.67s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#a78bfa"><animateMotion path="M620,190 L715,45 L810,155 L905,85" dur="3.51s" begin="0.45s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="3.51s" begin="0.45s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#22d3ee"><animateMotion path="M620,70 L715,45 L810,45 L905,175" dur="3.02s" begin="0.90s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="3.02s" begin="0.90s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#a78bfa"><animateMotion path="M620,70 L715,45 L810,215 L905,85" dur="3.43s" begin="1.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="3.43s" begin="1.35s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#22d3ee"><animateMotion path="M620,70 L715,105 L810,45 L905,175" dur="2.65s" begin="1.80s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="2.65s" begin="1.80s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#a78bfa"><animateMotion path="M620,70 L715,45 L810,105 L905,175" dur="3.02s" begin="2.25s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="3.02s" begin="2.25s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#22d3ee"><animateMotion path="M620,190 L715,45 L810,155 L905,85" dur="2.70s" begin="2.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="2.70s" begin="2.70s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#a78bfa"><animateMotion path="M620,190 L715,105 L810,155 L905,85" dur="3.15s" begin="3.15s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="3.15s" begin="3.15s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#22d3ee"><animateMotion path="M620,70 L715,45 L810,105 L905,175" dur="3.28s" begin="3.60s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="3.28s" begin="3.60s" repeatCount="indefinite"/></circle>
+<circle cx="620" cy="70" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle cx="620" cy="70" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle cx="620" cy="130" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="0.37s" repeatCount="indefinite"/></circle>
+<circle cx="620" cy="130" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="0.37s" repeatCount="indefinite"/></circle>
+<circle cx="620" cy="190" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="0.74s" repeatCount="indefinite"/></circle>
+<circle cx="620" cy="190" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="0.74s" repeatCount="indefinite"/></circle>
+<circle cx="715" cy="45" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="1.11s" repeatCount="indefinite"/></circle>
+<circle cx="715" cy="45" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="1.11s" repeatCount="indefinite"/></circle>
+<circle cx="715" cy="105" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="1.48s" repeatCount="indefinite"/></circle>
+<circle cx="715" cy="105" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="1.48s" repeatCount="indefinite"/></circle>
+<circle cx="715" cy="155" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="1.85s" repeatCount="indefinite"/></circle>
+<circle cx="715" cy="155" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="1.85s" repeatCount="indefinite"/></circle>
+<circle cx="715" cy="215" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="2.22s" repeatCount="indefinite"/></circle>
+<circle cx="715" cy="215" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="2.22s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="45" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="0.19s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="45" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="0.19s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="105" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="0.56s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="105" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="0.56s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="155" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="0.93s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="155" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="0.93s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="215" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="1.30s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="215" r="6" fill="#38bdf8"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="1.30s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="85" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="1.67s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="85" r="6" fill="#a78bfa"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="1.67s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="175" r="16" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="2.04s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="175" r="6" fill="#a78bfa"><animate attributeName="r" values="5;7.5;5" dur="2.4s" begin="2.04s" repeatCount="indefinite"/></circle>
+<text x="56" y="82" fill="#94a3b8" font-size="15" letter-spacing="5">HELLO WORLD, I AM</text>
+<text x="52" y="150" fill="url(#name)" font-size="76" font-weight="800">Jeevan</text>
+<text x="56" y="192" fill="#e2e8f0" font-size="22" opacity="0">Agentic AI Engineer<animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0.0000;0.0200;0.2300;0.2500;1.0000" dur="12.0s" repeatCount="indefinite"/></text>
+<text x="56" y="192" fill="#e2e8f0" font-size="22" opacity="0">Full-Stack Builder<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2500;0.2700;0.4800;0.5000;1.0000" dur="12.0s" repeatCount="indefinite"/></text>
+<text x="56" y="192" fill="#e2e8f0" font-size="22" opacity="0">UI/UX Designer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5000;0.5200;0.7300;0.7500;1.0000" dur="12.0s" repeatCount="indefinite"/></text>
+<text x="56" y="192" fill="#e2e8f0" font-size="22" opacity="0">Hackathon Enthusiast<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7500;0.7700;0.9800;1.0000;1.0000" dur="12.0s" repeatCount="indefinite"/></text>
+<rect x="56" y="208" width="48" height="3" rx="1.5" fill="#22d3ee"><animate attributeName="width" values="48;220;48" dur="3s" repeatCount="indefinite"/></rect>
 </svg>
