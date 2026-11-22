@@ -8,6 +8,10 @@
   <a href="https://youtube.com/@thetechodysseyyt"><img src="https://img.shields.io/badge/YouTube-The%20Tech%20Odyssey-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
+<p align="center">
+  <img src="assets/class-jeevan.svg" alt="class Jeevan(Engineer): role, college, stack, now, open_to, build()" width="720" />
+</p>
+
 ## About me
 
 I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of Engineering, Bengaluru** (CGPA 9.29, graduating 2028). I like turning ideas into working products, from small models trained from scratch to full-stack apps, and I take part in a lot of hackathons.
