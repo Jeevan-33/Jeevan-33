@@ -137,7 +137,7 @@ I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of E
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/Jeevan-33" alt="Contribution heatmap" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-33&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&area_color=22d3ee&hide_border=true" alt="Contribution activity" width="100%" />
 </p>
 
 ---
