@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of Engineering, Bengaluru** (CGPA 9.29, graduating 2028). I enjoy turning ideas into working products, from small models trained from scratch to full-stack apps. I'm an active hackathon participant and I enjoy contributing as a volunteer on technical committees and college fests, where I help organise events and support the tech community.
+I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of Engineering, Bengaluru** (CGPA 9.29, graduating 2028). I enjoy turning ideas into working products, from small models trained from scratch to full-stack apps. I'm an active hackathon participant and I enjoy contributing as a volunteer on technical committees and college fests.
 
 > **Now building:** offline-first RAG and tiny language models for log analysis
 > **Now learning:** agentic workflows and deep learning
