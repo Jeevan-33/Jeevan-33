@@ -117,17 +117,27 @@ I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of E
 
 ---
 
-## By the numbers
+## GitHub stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Jeevan-33?label=Followers&style=for-the-badge&color=0f3a4a&labelColor=16213e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Repositories-17-0f3a4a?style=for-the-badge&labelColor=16213e" alt="Repositories" />
-  <img src="https://img.shields.io/badge/CGPA-9.29-0f3a4a?style=for-the-badge&labelColor=16213e" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Graduating-2028-0f3a4a?style=for-the-badge&labelColor=16213e" alt="Graduating" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jeevan-33&query=$.public_repos&label=Public%20repos&style=flat-square&color=2f81f7&labelColor=161b22" alt="Public repositories" />
+  <img src="https://img.shields.io/github/followers/Jeevan-33?label=Followers&style=flat-square&color=2f81f7&labelColor=161b22" alt="Followers" />
+  <img src="https://img.shields.io/badge/CGPA-9.29-2f81f7?style=flat-square&labelColor=161b22" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Graduating-2028-2f81f7?style=flat-square&labelColor=161b22" alt="Graduating" />
+  <img src="https://komarev.com/ghpvc/?username=Jeevan-33&label=Profile%20views&color=2f81f7&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-33&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&area_color=22d3ee&hide_border=true" alt="Contribution activity" width="100%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeevan-33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jeevan-33&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2f81f7/Jeevan-33" alt="Contribution heatmap" width="100%" />
 </p>
 
 ---
