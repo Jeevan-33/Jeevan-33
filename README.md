@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/wave-top.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="Jeevan - Agentic AI, Full-Stack, UI/UX" width="100%" />
 </p>
 
@@ -95,24 +99,40 @@ I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of E
 **Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-3949AB?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
 **AI / ML** &nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Web & Data** &nbsp;
+**Web & Backend** &nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases** &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Design & Tools** &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
@@ -120,24 +140,15 @@ I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of E
 ## GitHub stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jeevan-33&query=$.public_repos&label=Public%20repos&style=flat-square&color=2f81f7&labelColor=161b22" alt="Public repositories" />
-  <img src="https://img.shields.io/github/followers/Jeevan-33?label=Followers&style=flat-square&color=2f81f7&labelColor=161b22" alt="Followers" />
-  <img src="https://img.shields.io/badge/CGPA-9.29-2f81f7?style=flat-square&labelColor=161b22" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Graduating-2028-2f81f7?style=flat-square&labelColor=161b22" alt="Graduating" />
+  <img src="assets/github-stats.svg" alt="GitHub stats" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeevan-33&label=Profile%20views&color=2f81f7&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeevan-33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeevan-33&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-33&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&area_color=22d3ee&hide_border=true" alt="Contribution activity" width="100%" />
+  <img src="assets/race-track.svg" alt="F1 race track driven by my GitHub activity" width="100%" />
 </p>
 
 ---
@@ -145,3 +156,7 @@ I'm a 3rd-year **AI & ML Engineering** student at **Dayananda Sagar College of E
 ## Let's connect
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/jeevan-ae-360176334/) or through my [YouTube channel](https://youtube.com/@thetechodysseyyt). Always up for collaborating on AI projects and hackathons.
+
+<p align="center">
+  <img src="assets/wave-bottom.svg" width="100%" alt="" />
+</p>
